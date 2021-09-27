@@ -1,4 +1,4 @@
-FROM salesforce/salesforcedx:latest-full
+FROM salesforce/salesforcedx:latest-rc-full
 
 LABEL version = "1.0.0"
 LABEL maintainer="Tython Devs <devs@tython.co>"
